@@ -1,1 +1,1 @@
-# e-commerce_react2
+#  Paradise Nursery Shopping Application
